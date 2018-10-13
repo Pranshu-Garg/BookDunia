@@ -328,7 +328,7 @@ html {
     max-width: 41.666667%;
   }
   .col-sm-6 {
-    -ms-flex: 0 0 50%;
+    -ms-flex: 0 0 0%;
         flex: 0 0 50%;
     max-width: 50%;
   }
