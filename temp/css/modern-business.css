@@ -26,4 +26,16 @@ body {
 
 .portfolio-item {
   margin-bottom: 30px;
+  max-width:180px;
+}
+
+p{
+ font-size:0.7em;
+}
+.card-text{
+ font-size:1em;
+}
+
+.carousel-caption p{
+ font-size:2.5em;
 }
